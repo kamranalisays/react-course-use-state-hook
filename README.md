@@ -7,7 +7,7 @@
    
       1.3 - The initial code of the project is created by the following command :
 
-            npx create-react-app hello-world 
+            npx create-react-app use-state-hook 
 
 
 2) Tools & Technologies
@@ -32,7 +32,7 @@
 
                  npm install
 
-               For Example :   E:\temporary\hello-world> npm install
+               For Example :   E:\temporary\use-state-hook> npm install
 
 
 
@@ -44,7 +44,7 @@
 
          npm start
 
-         For Example :   E:\temporary\hello-world>npm start
+         For Example :   E:\temporary\use-state-hook>npm start
    
 
 5) Tech Stack Version

@@ -26,7 +26,7 @@
 
     2.2 - After cloning the repo you have to install node modules.
 
-         Step-1 Open the terminal and change the directory to hello-world
+         Step-1 Open the terminal and change the directory to use-state-hook
 
          Step-2 Install the node modules by the following command
 
